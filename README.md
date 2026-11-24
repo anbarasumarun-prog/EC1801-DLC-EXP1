@@ -85,6 +85,7 @@ and successfully implemented using Verilog HDL.
 
 ## OUTPUT
 
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-24 at 9 54 45 AM" src="https://github.com/user-attachments/assets/fc5cad59-f9fe-40e7-a185-7dda72b9f34b" />
 
 
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis.
